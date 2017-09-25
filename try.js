@@ -1,3 +1,7 @@
+/**
+- * Created by Chaya Stern on 25/09/17.
+- */
+
 import { Selector } from 'testcafe'; // first import testcafe selectors
 
 var daysResult = {};
